@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Raw personal photographs (do not commit source photos)
+*.jpg
+*.jpeg
+*.png
+!assets/**/*.png
+!assets/**/*.jpg
+raw_photo.jpg
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Test scripts
+test_*.py
