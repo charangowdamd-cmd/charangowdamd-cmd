@@ -1,6 +1,6 @@
 <div align="center">
 
-# `charan@svit: ~`
+# `CHARAN GOWDA M D: ~`
 
 <!-- Top: Animated 53-Week GitHub Contribution Heatmap -->
 <a href="https://github.com/charangowdamd-cmd">
