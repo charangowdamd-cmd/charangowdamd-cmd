@@ -130,7 +130,7 @@
 
     <!-- Stat 2: Current Streak -->
     <text class="mono-text stat-label" x="185" y="12">CURRENT STREAK</text>
-    <text class="mono-text stat-value" x="185" y="32">1 <tspan font-size="10px" font-weight="400" fill="#8b949e">days</tspan></text>
+    <text class="mono-text stat-value" x="185" y="32">0 <tspan font-size="10px" font-weight="400" fill="#8b949e">days</tspan></text>
 
     <!-- Divider -->
     <line x1="315" y1="4" x2="315" y2="34" stroke="#21262d" stroke-width="1" />
@@ -1287,6 +1287,9 @@
     </rect>
     <rect class="cell" x="750.0" y="172.5" width="10" height="10" rx="2.5" fill="#161b22" stroke="#21262d" stroke-width="0.5" style="animation-delay: 0.892s;">
       <title>No contributions on 2026-11-20</title>
+    </rect>
+    <rect class="cell" x="750.0" y="186.0" width="10" height="10" rx="2.5" fill="#161b22" stroke="#21262d" stroke-width="0.5" style="animation-delay: 0.904s;">
+      <title>No contributions on 2026-11-21</title>
     </rect>
   </g>
   <!-- Legend & Terminal Prompt -->
