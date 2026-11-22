@@ -1,75 +1,17 @@
 {
   "username": "charangowdamd-cmd",
-  "fetched_at": "2026-11-15T17:33:21.331812+00:00",
-  "total_contributions": 111,
+  "fetched_at": "2026-11-22T15:38:13.868869+00:00",
+  "total_contributions": 122,
   "current_streak": 1,
   "longest_streak": 15,
-  "active_days": 54,
+  "active_days": 58,
   "peak_day": {
     "date": "2026-11-15",
-    "count": 11
+    "count": 14
   },
   "days_count": 365,
   "weeks_count": 53,
   "weeks": [
-    [
-      {
-        "date": "2025-11-16",
-        "level": 0,
-        "count": 0,
-        "tooltip": "No contributions on November 16th.",
-        "weekday": 0,
-        "month": "Nov"
-      },
-      {
-        "date": "2025-11-17",
-        "level": 0,
-        "count": 0,
-        "tooltip": "No contributions on November 17th.",
-        "weekday": 1,
-        "month": "Nov"
-      },
-      {
-        "date": "2025-11-18",
-        "level": 0,
-        "count": 0,
-        "tooltip": "No contributions on November 18th.",
-        "weekday": 2,
-        "month": "Nov"
-      },
-      {
-        "date": "2025-11-19",
-        "level": 0,
-        "count": 0,
-        "tooltip": "No contributions on November 19th.",
-        "weekday": 3,
-        "month": "Nov"
-      },
-      {
-        "date": "2025-11-20",
-        "level": 0,
-        "count": 0,
-        "tooltip": "No contributions on November 20th.",
-        "weekday": 4,
-        "month": "Nov"
-      },
-      {
-        "date": "2025-11-21",
-        "level": 0,
-        "count": 0,
-        "tooltip": "No contributions on November 21st.",
-        "weekday": 5,
-        "month": "Nov"
-      },
-      {
-        "date": "2025-11-22",
-        "level": 0,
-        "count": 0,
-        "tooltip": "No contributions on November 22nd.",
-        "weekday": 6,
-        "month": "Nov"
-      }
-    ],
     [
       {
         "date": "2025-11-23",
@@ -279,7 +221,7 @@
       },
       {
         "date": "2025-12-18",
-        "level": 2,
+        "level": 1,
         "count": 3,
         "tooltip": "3 contributions on December 18th.",
         "weekday": 4,
@@ -495,7 +437,7 @@
       },
       {
         "date": "2026-01-13",
-        "level": 2,
+        "level": 1,
         "count": 3,
         "tooltip": "3 contributions on January 13th.",
         "weekday": 2,
@@ -1929,7 +1871,7 @@
     [
       {
         "date": "2026-07-05",
-        "level": 2,
+        "level": 1,
         "count": 3,
         "tooltip": "3 contributions on July 5th.",
         "weekday": 0,
@@ -2077,7 +2019,7 @@
       },
       {
         "date": "2026-07-23",
-        "level": 2,
+        "level": 1,
         "count": 3,
         "tooltip": "3 contributions on July 23rd.",
         "weekday": 4,
@@ -2093,7 +2035,7 @@
       },
       {
         "date": "2026-07-25",
-        "level": 2,
+        "level": 1,
         "count": 3,
         "tooltip": "3 contributions on July 25th.",
         "weekday": 6,
@@ -2161,7 +2103,7 @@
     [
       {
         "date": "2026-08-02",
-        "level": 2,
+        "level": 1,
         "count": 3,
         "tooltip": "3 contributions on August 2nd.",
         "weekday": 0,
@@ -2219,7 +2161,7 @@
     [
       {
         "date": "2026-08-09",
-        "level": 2,
+        "level": 1,
         "count": 3,
         "tooltip": "3 contributions on August 9th.",
         "weekday": 0,
@@ -2873,7 +2815,7 @@
       },
       {
         "date": "2026-10-27",
-        "level": 2,
+        "level": 1,
         "count": 3,
         "tooltip": "3 contributions on October 27th.",
         "weekday": 2,
@@ -3005,7 +2947,7 @@
       },
       {
         "date": "2026-11-12",
-        "level": 2,
+        "level": 1,
         "count": 3,
         "tooltip": "3 contributions on November 12th.",
         "weekday": 4,
@@ -3032,8 +2974,66 @@
       {
         "date": "2026-11-15",
         "level": 4,
-        "count": 11,
-        "tooltip": "11 contributions on November 15th.",
+        "count": 14,
+        "tooltip": "14 contributions on November 15th.",
+        "weekday": 0,
+        "month": "Nov"
+      },
+      {
+        "date": "2026-11-16",
+        "level": 1,
+        "count": 3,
+        "tooltip": "3 contributions on November 16th.",
+        "weekday": 1,
+        "month": "Nov"
+      },
+      {
+        "date": "2026-11-17",
+        "level": 1,
+        "count": 3,
+        "tooltip": "3 contributions on November 17th.",
+        "weekday": 2,
+        "month": "Nov"
+      },
+      {
+        "date": "2026-11-18",
+        "level": 0,
+        "count": 0,
+        "tooltip": "No contributions on November 18th.",
+        "weekday": 3,
+        "month": "Nov"
+      },
+      {
+        "date": "2026-11-19",
+        "level": 1,
+        "count": 1,
+        "tooltip": "1 contribution on November 19th.",
+        "weekday": 4,
+        "month": "Nov"
+      },
+      {
+        "date": "2026-11-20",
+        "level": 0,
+        "count": 0,
+        "tooltip": "No contributions on November 20th.",
+        "weekday": 5,
+        "month": "Nov"
+      },
+      {
+        "date": "2026-11-21",
+        "level": 0,
+        "count": 0,
+        "tooltip": "No contributions on November 21st.",
+        "weekday": 6,
+        "month": "Nov"
+      }
+    ],
+    [
+      {
+        "date": "2026-11-22",
+        "level": 1,
+        "count": 1,
+        "tooltip": "1 contribution on November 22nd.",
         "weekday": 0,
         "month": "Nov"
       },
